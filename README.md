@@ -1,11 +1,50 @@
+# TechFest Website 🎉
 
-  # Responsive College Fest Website
+A responsive event website built using **React**, **Vite**, and **Tailwind CSS**.
+This project focuses on clean UI, smooth scrolling performance, and a modern
+mobile-first design approach.
 
-  This is a code bundle for Responsive College Fest Website. The original project is available at https://www.figma.com/design/wNvRr62GAb0IdJgN8j1Zhf/Responsive-College-Fest-Website.
+> ⚠️ **Status:** Work in Progress  
+> Actively improving responsiveness, UI polish, and performance optimizations.
 
-  ## Running the code
+---
 
-  Run `npm i` to install the dependencies.
+## 🚀 Features
 
-  Run `npm run dev` to start the development server.
-  
+- Responsive, mobile-first layout
+- Performance-optimized fixed header
+- Clean and modern UI using Tailwind CSS
+- Smooth navigation and section layout
+- Built with scalable React component structure
+
+---
+
+## 🛠 Tech Stack
+
+- **React**
+- **TypeScript**
+- **Vite**
+- **Tailwind CSS**
+- **Git & GitHub**
+
+---
+
+## 📦 Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/USERNAME/techfest-website.git
+2.Navigate to the project folder:
+     cd techfest-website
+3.Install dependancies:
+     npm install
+4.Start the development server:
+     npm run dev
+
+
+
+
+
+
+
+
