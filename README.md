@@ -29,18 +29,6 @@ mobile-first design approach.
 
 ---
 
-## 📦 Installation & Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/USERNAME/techfest-website.git
-2.Navigate to the project folder:
-     cd techfest-website
-3.Install dependancies:
-     npm install
-4.Start the development server:
-     npm run dev
-
 
 
 
